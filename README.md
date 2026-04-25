@@ -18,8 +18,6 @@ Python (pandas, numpy, matplotlib, seaborn) · PostgreSQL · Power BI
 
 # Dashboard RH — Analyse turnover & performance
 
-# Dashboard RH — Analyse turnover & performance
-
 Projet perso pour pratiquer Python et Power BI sur un cas RH concret.
 Dataset fictif de 5 000 employés généré avec des distributions réalistes.
 
@@ -49,4 +47,3 @@ partent 3,9x plus souvent que les bons performers.
 Ce chiffre permet de prioriser les entretiens de rétention 
 sur les profils à risque avant qu'ils ne partent 
 plutôt que de subir le turnover sans l'anticiper.
-
