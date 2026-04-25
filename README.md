@@ -18,4 +18,7 @@ Python (pandas, numpy, matplotlib, seaborn) · PostgreSQL · Power BI
 
 ## Ce que j'ai trouvé
 
-Le taux de turnover global est de 16,5%. Ce qui m'a surpris c'est la corrélation entre les scores de performance bas et les départs — les employés avec un score < 3/10 ont 3,9x plus de chance de quitter l'entreprise dans les 6 mois. Support client département avec le plus d'absence.
+Le taux de turnover global est de 16,5%. 
+Les employés avec un score < 3 partent 3,9x plus souvent que les bons performers. 
+C'est le département RH qui a le plus fort turnover (18,9%), 
+et Finance qui concentre le plus d'absences (7,3 jours en moyenne).
