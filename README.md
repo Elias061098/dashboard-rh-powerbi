@@ -47,3 +47,8 @@ partent 3,9x plus souvent que les bons performers.
 Ce chiffre permet de prioriser les entretiens de rétention 
 sur les profils à risque avant qu'ils ne partent 
 plutôt que de subir le turnover sans l'anticiper.
+
+
+## Dashboard interactif
+
+👉 [Voir le dashboard Tableau Public](https://public.tableau.com/app/profile/elias.hellal/viz/Dashboard-RH-Hellal-Elias)
